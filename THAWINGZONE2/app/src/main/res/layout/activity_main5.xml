@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:translationX="0dp"
+    tools:context=".Main5Activity">
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:background="@android:color/holo_blue_bright"
+        android:text="@string/zone2"
+        android:textColor="@android:color/background_light" />
+
+    <EditText
+        android:id="@+id/inpuut1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Name"
+        android:translationX="0dp"
+        android:translationY="100dp" />
+
+    <EditText
+        android:id="@+id/inpuut2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Storage Date"
+        android:translationX="0dp"
+        android:translationY="130dp" />
+
+    <EditText
+        android:id="@+id/inpuut3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Expiration Date"
+        android:translationX="0dp"
+        android:translationY="160dp" />
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="364dp"
+        android:layout_height="39dp"
+        android:text="@string/neww"
+        android:textAlignment="center"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:translationX="25dp"
+        android:translationY="70dp" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="207dp"
+        android:layout_height="112dp"
+        android:clickable="true"
+        android:src="@drawable/balik"
+        android:translationY="270dp" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="200dp"
+        android:layout_height="124dp"
+        android:clickable="true"
+        android:src="@drawable/kiiyma"
+        android:translationX="220dp"
+        android:translationY="390dp" />
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="221dp"
+        android:layout_height="121dp"
+        android:clickable="true"
+        android:src="@drawable/tavuuk"
+        android:translationX="0dp"
+        android:translationY="390dp" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="198dp"
+        android:layout_height="114dp"
+        android:clickable="true"
+        android:src="@drawable/eet"
+        android:translationX="212dp"
+        android:translationY="270dp" />
+
+    <TextView
+        android:id="@+id/textView21"
+        android:layout_width="169dp"
+        android:layout_height="wrap_content"
+        android:text="@string/typee"
+        android:textColor="@android:color/holo_blue_bright"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:translationX="10dp"
+        android:translationY="220dp" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@android:color/holo_blue_bright"
+        android:text="@string/strt"
+        android:textColor="@android:color/background_light"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:translationX="0dp"
+        android:translationY="530dp" />
+</RelativeLayout>

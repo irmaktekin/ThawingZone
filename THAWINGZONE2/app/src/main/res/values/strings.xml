@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">VESTEL THAWING ZONE</string>
+    <string name="zone1">ZONE 1</string>
+    <string name="zone2">ZONE 2</string>
+    <string name="stopdefrosting">STOP DEFROSTING</string>
+    <string name="newprdoduct">NEW PRODUCT</string>
+    <string name="text1">Product : Meat</string>
+    <string name="temperature">Temperature: 2 Celcius</string>
+    <string name="date1">Expiration Date:</string>
+    <string name="date2">Expiration Date: 02.08.19</string>
+    <string name="date3">Storage Date: 22.05.19</string>
+
+    <string name="zone3">ZONE 2</string>
+    <string name="defrst">DEFROST</string>
+    <string name="nwprdoduct">NEW PRODUCT</string>
+    <string name="zn1">ZONE 1</string>
+    <string name="newproduct">New Product</string>
+
+    <string name="zn">ZONE 2</string>
+    <string name="type">TYP</string>
+    <string name="typ">TYPE</string>
+    <string name="c">ZONE 1</string>
+
+    <string name="neww">New Product</string>
+    <string name="typee">TYPE</string>
+    <string name="strt">Start Freezing</string>
+    <string name="prdct">Product:Chicken Breast</string>
+    <string name="temp">Temperature : 20</string>
+    <string name="exp">Expiration Date :</string>
+    <string name="Strg">Storage Date : 14.05.19</string>
+    <string name="exp2">Expiration Date : 02.01.20</string>
+    <string name="strpr">Product : Meat</string>
+</resources>
